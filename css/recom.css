@@ -1,0 +1,50 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-size: 16px;
+}
+.clear{
+	content: '';
+	display: block;
+	clear: both;
+	overflow: hidden;
+}
+
+.cy_recom li{
+	list-style: none;
+	margin-bottom:20px;
+}
+.cy_goodslist{
+	margin-top: 20px;
+}
+.cy_listtop{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
+.cy_pf{
+	display: flex;
+}
+.cy_goodslist{
+	margin: 20px 0;
+}
+.cy_listimg img{
+	width: 95px;
+}
+.cy_listr{
+	width: 70%;
+}
+.cy_listr .cy_ybug{
+	margin: 10px 0;
+}
+.cy_listbot{
+	margin-left: 118px;
+}
+.cy_recom .fengniao{
+	margin-left: 58px;
+	background: #0097ff;
+	color: #fff;
+}
+.cy_recom .time{
+	margin-left: 30px;
+}

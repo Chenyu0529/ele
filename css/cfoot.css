@@ -1,0 +1,26 @@
+.cy_cfoot{
+	height: 60px;
+	background: orange;
+	text-align: center;
+	overflow: hidden;
+	background: orange;
+	z-index: 5;
+	border-top: 1px solid #eaeaea;
+}
+li{
+	list-style: none;
+}
+.cy_cfoot li{
+	margin-top: 5px;
+	float: left;
+	width: 25%;
+	font-size: 18px;
+	color: #bdbec4;
+	cursor: pointer;
+	text-decoration: none;
+	display: flex;
+	flex-direction: column;		
+}
+.cy_cfoot li i{
+	font-size: 25px;
+}	
